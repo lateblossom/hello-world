@@ -1,5 +1,5 @@
 # hello-world
-Learning the Basics
+Learning the Basics:
 So, I'm learning how to use github right now in an effort to save all of my future projects as I begin my journey in learning how to be a programmer. 
 A bit about myself:
 I have no previous experience in computer programming, not one bit, but I'm excited to learn. 
